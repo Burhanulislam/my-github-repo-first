@@ -1,6 +1,15 @@
 div{
-    background-color: tomato;
+    background-color: khaki;
     padding: 10px;
     margin: 10px;
     /* position:relative; */
+}
+img{
+    display: 30%;
+    width: 300px;
+    height: 300px;
+    margin: 40px;
+    }
+#seconddiv{
+    background-color: red;
 }
